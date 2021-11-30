@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WynnKunGz
-- 👀 I’m interested in Minecraft, Java, JavaScript and JSON
+- 👀 I’m interested in Minecraft, Java, JavaScript, JSON, HTML, and CSS.
 - 🌱 I’m currently learning how to make a Minecraft Mod, and I'm also currently making a Minecraft Datapack.
 
 <!---
