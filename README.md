@@ -2,9 +2,9 @@
 =============================================
 #### Minecraft Mod, Website, Discord Bot Developer
 ---------------------------------------------
-I’m interested in Minecraft, Java, JavaScript, HTML, CSS, C#, and many more.
-I’m currently learning how to make a Minecraft Mod, and I'm also currently making Minecraft Datapack.
-I've been learning and coding for a while now, I started with Java because I wanted to make a Minecraft mod which requires Java and then I started to learn JavaScript because I wanted to make a discord bot using discord.js and the latest one, HTML and CSS because, of course, I wanted to make my personal website.
+- I’m interested in Minecraft, Java, JavaScript, HTML, CSS, C#, and many more.
+- I’m currently learning how to make a Minecraft Mod, and I'm also currently making Minecraft Datapack.
+- I've been learning and coding for a while now, I started with Java because I wanted to make a Minecraft mod which requires Java and then I started to learn JavaScript because I wanted to make a discord bot using discord.js and the latest one, HTML and CSS because, of course, I wanted to make my personal website.
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [wynn.chanakant@gmail.com](mailto:wynn.chanakant@gmail.com)
