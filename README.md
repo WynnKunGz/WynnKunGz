@@ -9,7 +9,7 @@
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [wynn.chanakant@gmail.com](mailto:wynn.chanakant@gmail.com)
 *   🚀  I'm currently working on [my personal website](http://wynnkungz.github.io)
-*   🧠  I'm learning more about Java, JS, HTML, and CSS
+*   🧠  I'm learning more about Java, JS, HTML, and CSS <br>
 <a href="https://www.twitter.com/WChanakant" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/WChanakant?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"/></a>
 <a href="https://www.github.com/WynnKunGz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/WynnKunGz?logo=github&style=for-the-badge&color=a855f7&labelColor=0f172a"/></a>
 <a href="https://www.twitch.tv/wynnkungz" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/wynnkungz?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=0f172a&label=TWITCH+STATUS"/></a>
