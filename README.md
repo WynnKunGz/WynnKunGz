@@ -42,7 +42,7 @@
 <div width="100%" align="center">
   <a href="https://github.com/WynnKunGz/pom-s-birthday-website" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WynnKunGz&repo=pom-s-birthday-website&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a>
   <a href="https://github.com/WynnKunGz/wynnkungz.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WynnKunGz&repo=wynnkungz.github.io&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en"/></a>
-</div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</div>
 <div width="100%" align="center">
   <a href="https://github.com/WynnKunGz/WynnKunGz-s-Discord-Bot-v.2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WynnKunGz&repo=WynnKunGz-s-Discord-Bot-v.2&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en"/></a>
   <a href="https://github.com/WynnKunGz/Citicraft-Discord-Bot-v.2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=WynnKunGz&repo=Citicraft-Discord-Bot-v.2&title_color=ec4899&text_color=3382ed&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en"/></a>
