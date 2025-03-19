@@ -1,4 +1,4 @@
-### Hi 👋 My name is WynnKunGz
+### Hi 👋 My name is Wynn
 =============================================
 #### Website, Discord Bot Developer
 ---------------------------------------------
